@@ -1,0 +1,16 @@
+.card__descr {
+  display: flex;
+  justify-content: space-between;
+}
+
+.card__descr p {
+  text-transform: uppercase;
+}
+
+.card {
+  width: calc(25% - 15px);
+}
+
+.card__img {
+  height: 300px;
+}
